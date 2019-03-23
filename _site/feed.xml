@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog by Jan Klosowski</title>
+    <description>I’m UX designer and front-end developer. Currently, I work at Brown Brothers Harriman. On my belt, I have also a couple of startup experiences and dozens of websites builded by myself.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 23 Mar 2019 17:11:28 +0700</pubDate>
+    <lastBuildDate>Sat, 23 Mar 2019 17:11:28 +0700</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
+      <item>
+        <title>Tokeny personalne [marketingibiznes.pl]</title>
+        <description>&lt;p&gt;Przełącznik biletów.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 Jun 2018 21:31:21 +0700</pubDate>
+        <link>http://localhost:4000/tokeny-personalne/</link>
+        <guid isPermaLink="true">http://localhost:4000/tokeny-personalne/</guid>
+        
+        
+        <category>pl</category>
+        
+      </item>
+    
+      <item>
+        <title>Go home ICO. You're drunk.</title>
+        <description>&lt;p&gt;I recognize the demand for new funding and investment mechanisms, and I’m quite excited about cryptocurrencies in general. That said, the initial coin offering (ICO), in the current form, is a terrible investment model that cannot work and will make more people bankrupts than millionaires.&lt;/p&gt;
+
+&lt;p&gt;What is the ICO in the first place? After studying a bunch of the most famous examples — it’s easy to conclude that a successful ICO is an idea with enormous funding gathered in the process of selling a token with usually under-defined utility. The last point is crucial because it makes the relation between project success and its token value very unclear.&lt;/p&gt;
+
+&lt;p&gt;If you’re familiar with how startup investing works, then you probably know, that experienced investors do not invest in ideas. What interests them are the &lt;strong&gt;team&lt;/strong&gt;, &lt;strong&gt;product&lt;/strong&gt;, and &lt;strong&gt;traction&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Team&lt;/strong&gt; — if you’re a serial entrepreneur with a track record of success, and you already have a good team, you may get an investment even if there are doubts about your product and there is no traction yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Product&lt;/strong&gt; — you have a working beta or at least a promising prototype doing things that nobody else does. You may get investors money.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Traction&lt;/strong&gt; — the holy grail — you’re nobody, and your product looks weird and crappy, but the user base grows like a crazy. You will get funded.&lt;/p&gt;
+
+&lt;p&gt;It’s important to understand that even if you have all three, VC money will not come in advance. You’ll get it gradually while being closely watched how you spend it and what is your actual progress. At the seed stage — where all ICOs are — you’ll get just enough funds to survive and prove that you deserve a round A. It’s done that way because even having a team, a product, and some traction, you may still not succeed and most startups don’t. Business is brutal, and innovation is hard. And I almost forgot — it’s not free — in return, investors want some shares in the company.&lt;/p&gt;
+
+&lt;p&gt;Here the ICO model appears, and you get all the money upfront having just an idea, a website, a team without any previous successes and a token smart contract that you can create from a free template.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;With all the money and no legal obligations to investors, the team has no incentives to accomplish anything. If this is not enough — the token makes it hard to pivot and dramatically narrows the market.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Besides that, the whole model is entirely unproven. The only token-based project in the space that offers some non-speculative utility so far is the Ethereum itself that became a platform to run ICOs, what at least at the moment sounds a lot like a perpetual motion.&lt;/p&gt;
+
+&lt;p&gt;If it’s so wrong and evident, where does the money come from? Who invests in those projects? The bitter answer is people with no knowledge about investing, to some degree financially excluded, with no easy access to traditional markets — largely: teenagers. Those people will finance this next bubble in a similar way that small retail investors did it during the dot-com bubble in 2001.&lt;/p&gt;
+
+&lt;p&gt;This coming event is inevitable. Will it have at least some educational value? It’s hard to say. It seems like there is, and always has been, a market for bad investments and this one is significantly harder to regulate. What I don’t believe in is an opportunity for any of those mainstream ICOs to become the next big thing.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@klos/go-home-ico-youre-drunk-cfe39b878b34&quot;&gt;Leave a comment on Medium →&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 27 May 2017 08:01:01 +0700</pubDate>
+        <link>http://localhost:4000/go-home-ico/</link>
+        <guid isPermaLink="true">http://localhost:4000/go-home-ico/</guid>
+        
+        
+        <category>cryptocurrencies</category>
+        
+      </item>
+    
+      <item>
+        <title>Thoughts on teaching UX</title>
+        <description>&lt;p class=&quot;post__intro&quot;&gt;I didn't post for a while. A lot of things happened. Most importantly, I resigned from my position at &lt;a href=&quot;http://bbh.com&quot; target=&quot;_blank&quot;&gt;Brown Brothers Harriman&lt;/a&gt; to join &lt;a href=&quot;http://luna-lang.org&quot;&gt;Luna programming language&lt;/a&gt; team. I find Luna the most ambitious and exciting project in Poland right now so I'm honored to be onboard. In a meantime, I had a chance to run a couple of UX workshops and that's what I want to talk about today.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/img/ux-workshop.jpg&quot; alt=&quot;Workshop&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Teaching user experience is quite a challenge. First, you need to recognize that in the coming years, interfaces will be changing much faster. Common practices and patterns will be evolving and the UX roles and responsibilities will follow. But there is also a hope: I expect that the need for a good UXer will be increasing to not say inflating. The more technology – automation, AI, robots, VR… you name it – we will introduce to our life, the more we will value the &lt;em&gt;human factor&lt;/em&gt;. The role of UX specialist will probably get more subtle but remain focused on easing all those interactions with &lt;em&gt;every–day–more–abstract&lt;/em&gt; world around us.&lt;/p&gt;
+
+&lt;p&gt;That’s why from the beginning, I intuitively felt that user experience can be taught using a basic toolkit. Pencils, paper, and some whiteboard should be enough to run a workshop on any fundamental usability topic. If they aren’t, then most likely the topic is not so fundamental and may get obsolete faster than you think.&lt;/p&gt;
+
+&lt;p&gt;Although I share this opinion with participants, there are a couple of recurring questions: What programs/tools do you use? What is the right format for UX deliverables? How to start working as a UXer? Probably, each of them deserves a separate entry. I keep them on my short list of topics to address on the blog. I probably need to think about some online &lt;em&gt;UX starter kit&lt;/em&gt; for participants with a bunch of basic links and information. Finally, I started writing the successful workshop scenarios down to reuse them in the future and maybe even publish in some form.&lt;/p&gt;
+
+&lt;p&gt;An interesting observation was that only 20% of people coming to my last workshop were graphic designers. That’s a trend and I see it reasonable. No matter what is your role in the project, understanding the &lt;em&gt;human centric&lt;/em&gt; approach and its principles is a valuable skill to have.&lt;/p&gt;
+
+&lt;p&gt;Note to myself: always divide people into groups and three is the perfect size for a single group. This will provide an optimal engagement. I use to say to students while splitting them: “As a professional, you can pick a project but rarely the exact people you’ll be working with.” At the end of a day, UX is all about communication and working in teams.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 23 Oct 2016 16:00:00 +0700</pubDate>
+        <link>http://localhost:4000/teaching-ux/</link>
+        <guid isPermaLink="true">http://localhost:4000/teaching-ux/</guid>
+        
+        
+        <category>ux</category>
+        
+      </item>
+    
+      <item>
+        <title>Adults in progress</title>
+        <description>&lt;p&gt;There is this peculiar belief that somewhere between the fourteenth and twenty-first year of your life, you become adult, a fully developed human being.&lt;/p&gt;
+
+&lt;p&gt;Since today morning, I’m thirty-seven. There was not a single year when this internal transformation became any faster or significantly different. Though, I’m sure that it can slow down anytime. That’s why the idea of this one-time transformation is so harmful.&lt;/p&gt;
+
+&lt;p&gt;I can only laugh about how childish and naive I was in my thirties. And it’s a good laugh. When I go back another seven years, and another, and another, it’s like diving into memories of substantially different people. I’m painfully non-religious, but this type of reincarnation is real, happening right now in our lives.&lt;/p&gt;
+
+&lt;p&gt;Not everybody feels that way. Why? I don’t believe there is a single person who does not change. This creepy old man that disgusts you so much, at some point in his life was handsome and funny. Crazy, I know, but staying the same in the entirely different body would be even more strange and creepy. So why not everybody sees that change?&lt;/p&gt;
+
+&lt;p&gt;I suppose it’s about identity. The critical part of what we consider ourselves bases on the concept of maturity. The idea that in the first part of your life, you’re a work in progress, until you get a certain level of completeness where your childhood ends. As a child, your responsibilities are limited. You’re allowed to make mistakes, to learn and change. So you do. But it immediately gets much harder since the first time you hear: “Don’t be a child.”&lt;/p&gt;
+
+&lt;p&gt;My mother never softened her voice when talked to me in my early years. When I asked her “What does periphrasis mean?” she didn’t smile. She answered. Maybe that’s why I didn’t get rules of childhood “right” and was not stigmatized by them in a typical way. It made me an odd child and a weird adult. Or maybe I was just a tiny bit more aware of how unique and special we all are? Ready for the next seven years, and another, and whatever the lottery has to offer, I hope I’m still less grown than I’m able to be.&lt;/p&gt;
+
+&lt;p&gt;Nowadays, every month or two, I see an article about how the recent generation is less mature than their parents. How thirty-somethings behave as they were teenagers. And most importantly, where are those real men? Maybe they’re gone looking for some real women? Or perhaps they just stopped fooling themselves playing fully-developed in their twenties? I hope so. Because it’s an excellent piece of advice to follow.&lt;/p&gt;
+
+&lt;p&gt;Stop being complete. You never were. You’re allowed to be in progress. You’re allowed to make mistakes. You’re allowed to change. In fact, you have no power to stop it.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jan 2016 08:01:01 +0700</pubDate>
+        <link>http://localhost:4000/adults-in-progress/</link>
+        <guid isPermaLink="true">http://localhost:4000/adults-in-progress/</guid>
+        
+        
+        <category>everything</category>
+        
+      </item>
+    
+      <item>
+        <title>The last smartphone</title>
+        <description>&lt;p&gt;The phone I have right now may be the last smartphone in my life.&lt;/p&gt;
+
+&lt;p&gt;I must confess: I never liked smartphones. I was quite late to the party and I’ll be the first to leave. They are (and always will be) imperfect in everything they do. And it’s not about processing power, battery life or software. The basic design concept – a quite slippy “brick” you need to hold in your palm and operate with thumb – is not right. At least, since we know how to make it better.&lt;/p&gt;
+
+&lt;p&gt;Either too small or too big – they’re at the same time hard to operate and easy to lose or drop and break. Among other commonly used devices like laptops and tablets, phones may die first. To be precise: they will evolve into wearables connected to the cloud. Watches. Glasses. Jewellery.&lt;/p&gt;
+
+&lt;p&gt;At the moment, this shift is holden back by big companies. Phones are still a great business and this is the only reason why at the beginning of 2016, good standalone smartwatches are still not there. Samsung and LG already carefully played with the idea. Even if they were too afraid to remove all software limitations keeping this first really “smart” generation still a phone accessory. But the clock is ticking: we’ll see more of those fully independent wearables this year and their mature successors in the next one.&lt;/p&gt;
+
+&lt;p&gt;Every year, some smartphone breaks the record of the screen size. Smartwatches give producers a permission to push it even further because they replace a larger device in situations when it’s less convenient to use. But hey – we already have mobile devices with much larger screens for a while. We call them tablets and laptops. That is exact reason why Apple do not let you pair their watch with iPad. Because who does need the phone then?&lt;/p&gt;
+
+&lt;p&gt;People tend to say Apple Watch is the least exciting product from Cupertino. They’re wrong. It’s the next iPhone. Nobody reads rumors because it’s pretty obvious what it will be. A bit thinner, a bit better camera, a bit of “the best thing since the thing” marketing… The industry is about to make another step and Apple has no Jobs to be there before others.&lt;/p&gt;
+
+&lt;p&gt;So, if your current phone is relatively new, you may consider making it your last one. I do. The next chapter is on the way. And it will be exciting.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 09 Jan 2016 21:31:21 +0700</pubDate>
+        <link>http://localhost:4000/the-last-smartphone/</link>
+        <guid isPermaLink="true">http://localhost:4000/the-last-smartphone/</guid>
+        
+        
+        <category>ux</category>
+        
+      </item>
+    
+  </channel>
+</rss>

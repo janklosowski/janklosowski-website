@@ -1,0 +1,15 @@
+{% for category in site.categories reversed %}
+
+    <section class="category">
+        <h3 class="category__header">#{{ category | first }}</h3>
+        {% for posts in category %}
+          {% for post in posts %}
+            <a  class="postlink" href="{{ post.url }}">
+                <time class="postlink__time">{{ post.date | date: "%Y-%m-%d" }}</time>
+                <h2 class="postlink__title">{{ post.title }}</h2>
+            </a>
+          {% endfor %}
+        {% endfor %}
+    </section>
+
+{% endfor %}
