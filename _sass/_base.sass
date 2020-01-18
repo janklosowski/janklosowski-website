@@ -3,6 +3,25 @@ $unit:       14px
 $lineheight: 21px
 $ratio:      1.61803398875
 
+@font-face
+  font-family: 'Roboto Mono'
+  font-style: normal
+  font-weight: 400
+  src: local('Roboto Mono Regular'), local('Roboto-Mono-Regular'), url(../fonts/RobotoMonoRegular.woff) format('woff')
+  font-display: swap
+@font-face
+  font-family: 'Roboto Mono'
+  font-style: italic
+  font-weight: 400
+  src: local('Roboto Mono Italic'), local('Roboto-Mono-Italic'), url(../fonts/RobotoMonoItalic.woff) format('woff')
+  font-display: swap
+@font-face
+  font-family: 'Roboto Mono'
+  font-style: normal
+  font-weight: 700
+  src: local('Roboto Mono Bold'), local('Roboto-Mono-Bold'), url(../fonts/RobotoMonoBold.woff) format('woff')
+  font-display: swap
+
 *
     margin:  0
     padding: 0
@@ -42,7 +61,7 @@ code,
 h2,h3,h4,h5,
 pre,code,
 .aboutme
-    font-family: "Roboto Mono", sans-serif
+    font-family: "Roboto Mono", monospace, sans-serif
     font-size:   $unit
     line-height: 1em*$ratio
 

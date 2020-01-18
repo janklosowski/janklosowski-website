@@ -16,7 +16,8 @@
     <meta property="fb:app_id"          content="116769398411111">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Roboto+Mono:100,100i,300,300i,400,400i,500,500i,700,700i">
-    <link rel="stylesheet"  href="{{ "/css/main.css" | prepend: site.baseurl }}">
-    <link rel="canonical"   href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate"   href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" type="application/rss+xml" title="{{ site.title }}">
+    <!-- <link rel="stylesheet"  href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,400i,700"> -->
+    <link rel="stylesheet"    href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <link rel="shortcut icon" href="/img/favicon.png" type="image/png">
+    <link rel="canonical"     href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate"     href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" type="application/rss+xml" title="{{ site.title }}">
