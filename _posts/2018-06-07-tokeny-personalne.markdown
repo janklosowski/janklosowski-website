@@ -1,6 +1,6 @@
 ---
 layout: 	   redirect
-title:  	   "Tokeny personalne [pl]"
+title:  	   "Tokeny personalne [pl] &#8629;"
 date:   	   2018-06-07 14:31:21
 category: 	   cryptocurrencies
 permalink:     /tokeny-personalne/
