@@ -1,6 +1,6 @@
 ---
 layout: 	    redirect
-title:  	    "Automated Dollar-Cost Averaging into Bitcoin is here. Meet Deltabadger."
+title:  	    "Meet Deltabadger: an automated Bitcoin dollar-cost averaging."
 date:   	    2020-01-10 14:31:21
 category: 	  cryptocurrencies
 permalink:    /meet-deltabadger/
