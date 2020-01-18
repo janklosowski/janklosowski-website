@@ -1,19 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog by Jan Klosowski</title>
+    <title>Jan Klosowski</title>
     <description>I’m UX designer and front-end developer. Currently, I work at Brown Brothers Harriman. On my belt, I have also a couple of startup experiences and dozens of websites builded by myself.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Mar 2019 17:11:28 +0700</pubDate>
-    <lastBuildDate>Sat, 23 Mar 2019 17:11:28 +0700</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <pubDate>Sat, 18 Jan 2020 01:08:50 +0100</pubDate>
+    <lastBuildDate>Sat, 18 Jan 2020 01:08:50 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Automated Dollar-Cost Averaging into Bitcoin is here. Meet Deltabadger.</title>
+        <description>
+</description>
+        <pubDate>Fri, 10 Jan 2020 15:31:21 +0100</pubDate>
+        <link>http://localhost:4000/meet-deltabadger/</link>
+        <guid isPermaLink="true">http://localhost:4000/meet-deltabadger/</guid>
+        
+        
+        <category>cryptocurrencies</category>
+        
+      </item>
     
       <item>
         <title>Tokeny personalne [marketingibiznes.pl]</title>
-        <description>&lt;p&gt;Przełącznik biletów.&lt;/p&gt;
+        <description>
 </description>
-        <pubDate>Thu, 07 Jun 2018 21:31:21 +0700</pubDate>
+        <pubDate>Thu, 07 Jun 2018 16:31:21 +0200</pubDate>
         <link>http://localhost:4000/tokeny-personalne/</link>
         <guid isPermaLink="true">http://localhost:4000/tokeny-personalne/</guid>
         
@@ -51,7 +64,7 @@
 &lt;p&gt;&lt;a href=&quot;https://medium.com/@klos/go-home-ico-youre-drunk-cfe39b878b34&quot;&gt;Leave a comment on Medium →&lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Sat, 27 May 2017 08:01:01 +0700</pubDate>
+        <pubDate>Sat, 27 May 2017 03:01:01 +0200</pubDate>
         <link>http://localhost:4000/go-home-ico/</link>
         <guid isPermaLink="true">http://localhost:4000/go-home-ico/</guid>
         
@@ -76,7 +89,7 @@
 
 &lt;p&gt;Note to myself: always divide people into groups and three is the perfect size for a single group. This will provide an optimal engagement. I use to say to students while splitting them: “As a professional, you can pick a project but rarely the exact people you’ll be working with.” At the end of a day, UX is all about communication and working in teams.&lt;/p&gt;
 </description>
-        <pubDate>Sun, 23 Oct 2016 16:00:00 +0700</pubDate>
+        <pubDate>Sun, 23 Oct 2016 11:00:00 +0200</pubDate>
         <link>http://localhost:4000/teaching-ux/</link>
         <guid isPermaLink="true">http://localhost:4000/teaching-ux/</guid>
         
@@ -103,7 +116,7 @@
 
 &lt;p&gt;Stop being complete. You never were. You’re allowed to be in progress. You’re allowed to make mistakes. You’re allowed to change. In fact, you have no power to stop it.&lt;/p&gt;
 </description>
-        <pubDate>Mon, 11 Jan 2016 08:01:01 +0700</pubDate>
+        <pubDate>Mon, 11 Jan 2016 02:01:01 +0100</pubDate>
         <link>http://localhost:4000/adults-in-progress/</link>
         <guid isPermaLink="true">http://localhost:4000/adults-in-progress/</guid>
         
@@ -128,7 +141,7 @@
 
 &lt;p&gt;So, if your current phone is relatively new, you may consider making it your last one. I do. The next chapter is on the way. And it will be exciting.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 09 Jan 2016 21:31:21 +0700</pubDate>
+        <pubDate>Sat, 09 Jan 2016 15:31:21 +0100</pubDate>
         <link>http://localhost:4000/the-last-smartphone/</link>
         <guid isPermaLink="true">http://localhost:4000/the-last-smartphone/</guid>
         
