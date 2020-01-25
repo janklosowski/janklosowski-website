@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jan Klosowski</title>
-    <description>I’m UX designer and front-end developer. Currently, I work at Brown Brothers Harriman. On my belt, I have also a couple of startup experiences and dozens of websites builded by myself.</description>
+    <description> </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Jan 2020 17:18:19 +0100</pubDate>
-    <lastBuildDate>Sat, 18 Jan 2020 17:18:19 +0100</lastBuildDate>
+    <pubDate>Sat, 25 Jan 2020 23:36:54 +0100</pubDate>
+    <lastBuildDate>Sat, 25 Jan 2020 23:36:54 +0100</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>

@@ -1,11 +1,10 @@
 # Site settings
 title: Jan Klosowski
 email: janklosowski@gmail.com
-description: "I’m UX designer and front-end developer. Currently, I work at Brown Brothers Harriman. On my belt, I have also a couple of startup experiences and dozens of websites builded by myself."
+description: " "
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://janklosowski.com" # the base hostname & protocol for your site
+url: "http://lexmotion.janklosowski.com" # the base hostname & protocol for your site
 parmalink: /:category/:title/
-twitter_username: klos
 github_username: janklosowski
 
 # Build settings
