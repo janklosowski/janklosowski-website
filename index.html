@@ -9,7 +9,7 @@ bodyclass: 	homeview
 <div class="page">
 
     <header class="header">
-      <h1 class="aboutme">I design and build human interfaces. I speculate on markets and ideas. Owner at <a href="https://deltabadger.com/" rel="noopener" target="_blank">Deltabadger</a> – a dollar-cost averaging bot for Bitcoin investors. Previously, a UX Designer at <a href="http://luna-lang.org">Luna</a> visual-textual programming
+      <h1 class="aboutme">I design and build human interfaces. I speculate on markets and ideas. Owner at <a href="https://deltabadger.com/" target="_blank">Deltabadger</a> – a dollar-cost averaging bot for Bitcoin investors. UX Designer at <a href="https://zen.com" target="_blank" rel="noopener">Zen</a>. Previously, also a UX Designer at <a href="http://luna-lang.org" target="_blank" rel="noopener">Luna</a> visual-textual programming
           language, <a href="http://bbh.com" target="_blank" rel="noopener">Brown&nbsp;Brothers&nbsp;Harriman</a>, and many smaller projects. Talk to me about singularity, dataism, and huskies.</h1>
 
       <p class="sociallinks">
@@ -22,6 +22,8 @@ bodyclass: 	homeview
     </header>
 
     <main class="articles">
+      <h2 class="category__header">#pl</h2>
+      <section class="category">{% for post in site.categories.pl %}{% include category.html %}{% endfor %}</section>
       <h2 class="category__header">#cryptocurrencies</h2>
       <section class="category">{% for post in site.categories.cryptocurrencies %}{% include category.html %}{% endfor %}</section>
       <h2 class="category__header">#ux</h2>
