@@ -1,5 +1,5 @@
 $link:       #c60c30
-$unit:       18px
+$unit:       16px
 $lineheight: 1.5 * $unit
 $ratio:      1.61803398875
 
@@ -131,10 +131,19 @@ pre,code,
     background-image: url(../img/janklosowski01.jpg)
     background-position: top center
     background-size: cover
+    animation: show_image 500ms
+
+@keyframes show_image
+  0%
+    opacity: 0
+  50%
+    opacity: 0
+  100%
+    opacity: 100%
 
 .side--mask
     background-position: top right
 
 .side--mask--1
-    background-image: url(../img/mask.png)
-    background-size: 4px
+    background-image: url(../img/mask.svg)
+    background-size: 6px
