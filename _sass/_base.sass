@@ -2,6 +2,7 @@ $link:       #c60c30
 $unit:       16px
 $lineheight: 1.5 * $unit
 $ratio:      1.61803398875
+$text:       #333
 
 @font-face
   font-family: 'Roboto Mono'
@@ -50,13 +51,13 @@ figure
     margin-bottom: 0
 
 html
-  color: #333
+  color: $text
   background: #fff
 
 .darkmode
   background: #eee
   filter:     invert(1)
-  a, a:hover time, img:not(.darkmode-switch), .side--image
+  a, time, img:not(.darkmode-switch), .side--image
     filter: invert(1)
 .darkmode-switch
   z-index:  1000
@@ -79,7 +80,7 @@ body
 p, ol, ul, h1, h2, h3, h4,
 img, video, pre, code, figure,
 .post__time, .header, .category
-  margin-bottom: 2rem
+  margin-bottom: $ratio*1rem
 
 html,
 body,
@@ -117,12 +118,13 @@ pre,code,
     height:  3rem
     display: inline-block
 .postlink
+  margin-bottom: 1rem
   display: block
   &:hover
     .postlink__title__arrow
       opacity: 1
     .postlink__time
-      color: #333
+      color: $text
 
 .postlink__time,
 .postlink__title
@@ -132,8 +134,11 @@ pre,code,
 .sociallinks,
 .postlink__time,
 .category__header
-  color:       #767676
+  color:       $text
   font-weight: normal
+
+.category__header
+  opacity: 1/$ratio
 
 .postlink__title__arrow
   opacity: 0
