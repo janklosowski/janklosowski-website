@@ -55,10 +55,12 @@ html
   background: #fff
 
 .darkmode
-  background: #eee
-  filter:     invert(1)
+  background: #111
   a, time, img:not(.darkmode-switch), .side--image
     filter: invert(1)
+  body
+    filter:     invert(1)
+    background: #eee
 .darkmode-switch
   z-index:  1000
   position: absolute
