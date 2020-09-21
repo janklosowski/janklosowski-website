@@ -31,10 +31,10 @@ bodyclass: 	homeview
     </header>
 
     <main class="articles">
-      <h2 class="category__header">:pl</h2>
-      <section class="category">{% for post in site.categories.pl %}{% include category.html %}{% endfor %}</section>
       <h2 class="category__header">:cryptocurrencies</h2>
       <section class="category">{% for post in site.categories.cryptocurrencies %}{% include category.html %}{% endfor %}</section>
+      <h2 class="category__header">:pl</h2>
+      <section class="category">{% for post in site.categories.pl %}{% include category.html %}{% endfor %}</section>
       <h2 class="category__header">:ux</h2>
       <section class="category">{% for post in site.categories.ux %}{% include category.html %}{% endfor %}</section>
       <h2 class="category__header">:everything</h2>
