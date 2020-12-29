@@ -1,6 +1,6 @@
 ---
 layout: 	    redirect
-title:  	    "<span class=material-icons>volume_up</span> ZBG #42 | UX, praca zdalna, inwestowanie, Deltabadger &#8629;"
+title:  	    "ZBG #42 <span class=material-icons>volume_up</span> | UX, praca zdalna, inwestowanie, Deltabadger &#8629;"
 date:   	    2020-09-10 20:00:00
 category: 	  pl
 permalink:    /zycie-bez-gruchy-01/
