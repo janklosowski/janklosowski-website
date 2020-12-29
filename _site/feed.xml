@@ -5,9 +5,9 @@
     <description>Human interfaces. Ideas. Noise.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 29 Dec 2020 17:36:18 +0100</pubDate>
-    <lastBuildDate>Tue, 29 Dec 2020 17:36:18 +0100</lastBuildDate>
-    <generator>Jekyll v3.9.0</generator>
+    <pubDate>Tue, 29 Dec 2020 19:01:19 +0100</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2020 19:01:19 +0100</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>&lt;span class=material-icons&gt;videocam&lt;/span&gt; Ugly Old Goat | Dollar-Cost Averaging with Deltabadger &amp;#8629;</title>
@@ -23,7 +23,7 @@
       </item>
     
       <item>
-        <title>&lt;span class=material-icons&gt;volume_up&lt;/span&gt; ZBG #42 | UX, praca zdalna, inwestowanie, Deltabadger &amp;#8629;</title>
+        <title>ZBG #42 &lt;span class=material-icons&gt;volume_up&lt;/span&gt; | UX, praca zdalna, inwestowanie, Deltabadger &amp;#8629;</title>
         <description>
 </description>
         <pubDate>Thu, 10 Sep 2020 22:00:00 +0200</pubDate>

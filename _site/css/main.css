@@ -122,9 +122,6 @@ pre, code,
     opacity: 1; }
   .postlink:hover .postlink__time {
     color: #333; }
-  .postlink .material-icons {
-    position: relative;
-    top: 7px; }
 
 .postlink__time,
 .postlink__title {
