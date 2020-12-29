@@ -1,9 +1,9 @@
 # Site settings
 title: Jan Klosowski
-email: contact@janklosowski.com
-description: "Human interfaces. Ideas. Noise."
+email: janklosowski@gmail.com
+description: " "
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://janklosowski.com" # the base hostname & protocol for your site
+url: "http://lexmotion.janklosowski.com" # the base hostname & protocol for your site
 parmalink: /:category/:title/
 github_username: janklosowski
 
