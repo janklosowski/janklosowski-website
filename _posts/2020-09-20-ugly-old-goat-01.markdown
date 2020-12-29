@@ -1,6 +1,6 @@
 ---
 layout: 	    redirect
-title:  	    "<span class=material-icons>videocam</span> Ugly Old Goat | Dollar-Cost Averaging with Deltabadger &#8629;"
+title:  	    "<span class=material-icons>videocam</span> Ugly Old Goat | Invited by the legend &#8629;"
 date:   	    2020-09-20 20:00:00
 category: 	  cryptocurrencies
 permalink:    /ugly-old-goat-01/
