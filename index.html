@@ -9,7 +9,7 @@ bodyclass: 	homeview
 <div class="page">
 
     <header class="header">
-      <h1 class="aboutme">I design and build human interfaces, and speculate on markets and ideas. Owner at <a href="https://deltabadger.com/" target="_blank">Deltabadger</a> – a dollar-cost averaging bot for Bitcoin investors. UX Designer at <a href="https://zen.com" target="_blank" rel="noopener">Zen</a>. Previously, also at <a href="http://luna-lang.org" target="_blank" rel="noopener">Luna</a> visual-textual programming language, and <a href="http://bbh.com" target="_blank" rel="noopener">Brown&nbsp;Brothers&nbsp;Harriman</a>.</h1>
+      <h1 class="aboutme">I design and build human interfaces, and speculate on markets and ideas. <br><br> Owner at <a href="https://deltabadger.com/" target="_blank">Deltabadger</a> – a dollar-cost averaging bot for Bitcoin investors. UX Designer at <a href="https://zen.com" target="_blank" rel="noopener">Zen</a>. Previously, also at <a href="http://luna-lang.org" target="_blank" rel="noopener">Luna</a> visual-textual programming language, and <a href="http://bbh.com" target="_blank" rel="noopener">Brown&nbsp;Brothers&nbsp;Harriman</a>.</h1>
 
       <div class="ux-at">
         <a href="https://deltabadger.com/" target="_blank"><img src="/img/logo-deltabadger.svg" alt="Deltabadger"></a>
@@ -24,18 +24,20 @@ bodyclass: 	homeview
               | <a href="https://twitter.com/klos" rel="noopener" target="_blank">twitter</a>
               | <a href="https://www.linkedin.com/in/janklosowski" rel="noopener" target="_blank">linkedin</a>
               | <a href="https://www.instagram.com/janklosowski/" rel="noopener" target="_blank">instagram</a>
+              <br>
+              <small><sup>*</sup>Talk to me about second brain, dataism, and huskies.</small>
       </p>
-      <small>(Talk to me about second brain, dataism, and huskies.)</small>
+
     </header>
 
     <main class="articles">
-      <h2 class="category__header">#pl</h2>
-      <section class="category">{% for post in site.categories.pl %}{% include category.html %}{% endfor %}</section>
-      <h2 class="category__header">#cryptocurrencies</h2>
+      <h2 class="category__header">:cryptocurrencies</h2>
       <section class="category">{% for post in site.categories.cryptocurrencies %}{% include category.html %}{% endfor %}</section>
-      <h2 class="category__header">#ux</h2>
+      <h2 class="category__header">:pl</h2>
+      <section class="category">{% for post in site.categories.pl %}{% include category.html %}{% endfor %}</section>
+      <h2 class="category__header">:ux</h2>
       <section class="category">{% for post in site.categories.ux %}{% include category.html %}{% endfor %}</section>
-      <h2 class="category__header">#everything</h2>
+      <h2 class="category__header">:everything</h2>
       <section class="category">{% for post in site.categories.everything %}{% include category.html %}{% endfor %}</section>
     </main>
 </div>
