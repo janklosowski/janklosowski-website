@@ -22,8 +22,10 @@ layout: base
 
 	</article>
 
-</div>
+	<section class="comments">
+		{% include welcomments/comments.html
+		    api_url    = "https://welcomments.io/api"
+		    website_id = "SeNbxogmOtK6aC5qRS1k" %}
+	</section>
 
-{% include welcomments/comments.html
-    api_url    = "https://welcomments.io/api"
-    website_id = "SeNbxogmOtK6aC5qRS1k" %}
+</div>
